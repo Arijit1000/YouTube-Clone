@@ -173,10 +173,3 @@ This application includes the major features of Youtube such as
 - [Semantic UI](https://react.semantic-ui.com/)
 - CSS Grid / Flexbox
 
-# 8 Disclaimer
-
-This project is **solely intended for educational purposes** and is created under **fair use**.
-
-It is **not intended to create any kind of Youtube competitor**, but to teach advanced concepts in frontend development.
-
-Just see it a nice educational project that will help you to improve your coding skills.
